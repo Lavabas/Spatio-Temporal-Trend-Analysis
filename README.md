@@ -19,9 +19,9 @@ The Mann-Kendall test is a non-parametric method used widely in climate science 
 - Right: MK p-values (Significant regions shown as p < 0.05)
 
 ## Notes
-The Xee API allows direct xarray-style access to GEE imagery with CRS and scale options.
-No preprocessing was needed for temperature data as ERA5 is cloud-free (unlike optical imagery).
-Output visualizations were generated with matplotlib using plt.tight_layout() to maintain clarity.
+- The Xee API allows direct xarray-style access to GEE imagery with CRS and scale options.
+- No preprocessing was needed for temperature data as ERA5 is cloud-free (unlike optical imagery).
+- Output visualizations were generated with matplotlib using plt.tight_layout() to maintain clarity.
 
 
 
